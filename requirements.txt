@@ -1,5 +1,4 @@
 Flask
 flask-cors
-yt-dlp
+yt-dlp[default]
 gunicorn
-yt-dlp-ejs
